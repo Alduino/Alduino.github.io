@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making a City Builder"
+title:  "Making a City Builder: Voronoi Terrain Generation"
 date:   2019-09-16
 category: city-builder
 tags: [city-builder, unity, game]
